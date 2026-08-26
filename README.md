@@ -2,7 +2,6 @@
 *Professional Copy-paster & Keyboard Smasher*
 
 ![Vibe Check](https://img.shields.io/badge/Vibe-Unchecked-red?style=for-the-badge)
-![Prod Status](https://img.shields.io/badge/Production-On_Fire 🔥-orange?style=for-the-badge)
 ![Code Quality](https://img.shields.io/badge/Code_Quality-It_Runs_On_My_Machine-brightgreen?style=for-the-badge)
 
 ### 🔭 Current Projects
