@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rand 👋
+*Professional Copy-paster & Keyboard Smasher*
 
-<!--
-**Vallon-Doang/Vallon-Doang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Projects
+- Trying to understand why deleting a comment broke the entire backend
+- Centering a `<div>`
+- Pretending to understand Cybersecurity
 
-Here are some ideas to get you started:
+### ⚡ My Daily Workflow
+1. Wake up
+2. Deciding to work on a project
+3. Vibecode the main.py
+4. Distracted
+5. Ended without any progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Google Search:** Senior Level
+- **Copy-Pasting:** Principal Level
+- **Asking LLMs:** Staff Level
+- **Git:** Know `pull`, `push`, and `git reset --hard HEAD` when everything burns
+-**Prompt Engineering:** You are an <Insert profession>, do this, make no mistakes.
