@@ -4,19 +4,11 @@
 ![Vibe Check](https://img.shields.io/badge/Vibe-Unchecked-red?style=for-the-badge)
 ![Code Quality](https://img.shields.io/badge/Code_Quality-It_Runs_On_My_Machine-brightgreen?style=for-the-badge)
 
-### 🔭 Current Projects
-- Trying to understand why deleting a comment broke the entire backend
+### Current Projects
 - Centering a `<div>`
 - Pretending to understand Cybersecurity
 
-### ⚡ My Daily Workflow
-1. Wake up
-2. Deciding to work on a project
-3. Vibecode the main.py
-4. Distracted
-5. Ended without any progress
-
-### 🛠 Skills
+### Skills
 - **Google Search:** Senior Level
 - **Copy-Pasting:** Principal Level
 - **Asking LLMs:** Staff Level
