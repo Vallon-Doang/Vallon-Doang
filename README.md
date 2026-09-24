@@ -13,7 +13,7 @@
 - **Copy-Pasting:** Principal Level
 - **Asking LLMs:** Staff Level
 - **Git:** Know `pull`, `push`, and `git reset --hard HEAD` when everything burns
--**Prompt Engineering:** You are an <Insert profession>, do this, make no mistakes.
+-**Prompt Engineering:** You are an `<Insert profession>`, do this, make no mistakes.
 
 ### Highly Accurate Metrics
 - **Coffee Consumed:** 4,200+ cups
